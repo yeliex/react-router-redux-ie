@@ -1,0 +1,35 @@
+{
+  "name": "react-router-redux-ie8",
+  "version": "1.0.0",
+  "description": "react-router-redux for ie8 Edit",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeliex/react-router-redux-ie8.git"
+  },
+  "keywords": [
+    "react",
+    "react-router",
+    "react-redux",
+    "react-router-redux",
+    "ie8",
+    "react-ie8"
+  ],
+  "author": "yeliex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeliex/react-router-redux-ie8/issues"
+  },
+  "homepage": "https://github.com/yeliex/react-router-redux-ie8#readme",
+  "dependencies": {
+    "react-router-redux": "^4.0.7"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "webpack": "^1.14.0"
+  }
+}
