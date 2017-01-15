@@ -1,5 +1,5 @@
 {
-  "name": "react-router-redux-ie8",
+  "name": "react-router-redux-ie",
   "version": "1.0.0",
   "description": "react-router-redux for ie8 Edit",
   "main": "src/index.js",
@@ -16,14 +16,16 @@
     "react-redux",
     "react-router-redux",
     "ie8",
+    "ie",
+    "react-ie",
     "react-ie8"
   ],
   "author": "yeliex",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yeliex/react-router-redux-ie8/issues"
+    "url": "https://github.com/yeliex/react-router-redux-ie/issues"
   },
-  "homepage": "https://github.com/yeliex/react-router-redux-ie8#readme",
+  "homepage": "https://github.com/yeliex/react-router-redux-ie#readme",
   "dependencies": {
     "react-router-redux": "^4.0.7"
   },

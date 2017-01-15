@@ -1,8 +1,8 @@
-# react-router-redux-ie8
-react-router-redux for ie8
+# react-router-redux-ie
+react-router-redux for ie
 
 ## Installation
-`$ npm install react-router-redux-ie8 -S`
+`$ npm install react-router-redux-ie -S`
 
 ## Usage
 ```
@@ -10,9 +10,9 @@ react-router-redux for ie8
 {
   resolve: {
     alias: {
-      'react-router-redux': 'react-router-redux-ie8'
+      'react-router-redux': 'react-router-redux-ie'
     }
   }
 }
 ```
-Or Use `import react-router-redux-ie8` instead `import react-router-redux`
+Or Use `import react-router-redux-ie` instead `import react-router-redux`
