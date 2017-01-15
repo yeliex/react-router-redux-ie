@@ -2,7 +2,7 @@ const webpack = require('webpack');
 
 module.exports = {
   entry: {
-    "index.browser": './src/index.browser.js'
+    index: './src/index.js'
   },
   output: {
     path: require('path').join(__dirname, '/dist'),

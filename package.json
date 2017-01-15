@@ -2,8 +2,11 @@
   "name": "react-router-redux-ie",
   "version": "1.0.0",
   "description": "react-router-redux for ie8 Edit",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "scripts": {
+    "build": "webpack --config=webpack.config.js",
+    "prepublish": "npm run build",
+    "publish": "rm -rf dist/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
