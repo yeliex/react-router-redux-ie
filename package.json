@@ -1,6 +1,6 @@
 {
   "name": "react-router-redux-ie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-router-redux for ie8 Edit",
   "main": "dist/index.js",
   "scripts": {
