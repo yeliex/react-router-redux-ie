@@ -1,4 +1,6 @@
 # react-router-redux-ie
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/yeliex/react-router-redux-ie.svg)](https://greenkeeper.io/)
 react-router-redux for ie
 
 ## Installation
